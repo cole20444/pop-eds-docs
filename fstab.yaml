@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/your-user-name/your-repo-name/main/docs
+    url: https://dita-franklin-worker.adobeaem.workers.dev/cole20444/pop-eds-docs/main/docs
     type: markup
 
